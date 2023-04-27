@@ -68,3 +68,12 @@ button {
   border-radius: 10px;
   width: 280px;
 }
+
+footer {
+  margin-top: 20px;
+}
+
+footer a {
+  color: grey;
+  text-decoration: none;
+}
